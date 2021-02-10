@@ -2,7 +2,7 @@
 date: '2018-12-29'
 title: 'Cancer Donation Website'
 github: 'https://github.com/priyatam0509/cancerdonation'
-external: 'https://happy-shannon-326801.netlify.app/'
+external: 'https://cancerdonation.netlify.app'
 tech:
   - Html
   - Java script
